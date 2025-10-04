@@ -1,4 +1,4 @@
-package com.hashcode.springbasics.beancreation;
+package com.hashcode.springbasics.bean;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
