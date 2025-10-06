@@ -7,7 +7,7 @@
     <!-- Activate the @PostConstruct and @PreDestroy annotations -->
 <!--    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor"/>-->
     <context:annotation-config/>
-    <bean id="demoBeanXMLConfig" class="com.hashcode.springbasics.bean.DemoBeanXMLConfig" init-method="init" destroy-method="destroy"/>
-    <bean id="demoBeanPrgConfig" class="com.hashcode.springbasics.bean.DemoBeanPrgConfig"/>
-    <bean id="demoBeanAnnotationConfig" class="com.hashcode.springbasics.bean.DemoBeanAnnotationConfig"/>
+    <bean id="demoBeanXMLConfig" class="com.hashcode.springbasics.beancreation.DemoBeanXMLConfig" init-method="init" destroy-method="destroy"/>
+    <bean id="demoBeanPrgConfig" class="com.hashcode.springbasics.beancreation.DemoBeanPrgConfig"/>
+    <bean id="demoBeanAnnotationConfig" class="com.hashcode.springbasics.beancreation.DemoBeanAnnotationConfig"/>
 </beans>

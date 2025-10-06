@@ -1,4 +1,4 @@
-package com.hashcode.springbasics.bean;
+package com.hashcode.springbasics.beancreation;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

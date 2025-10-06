@@ -1,4 +1,4 @@
-package com.hashcode.springbasics.bean;
+package com.hashcode.springbasics.beancreation;
 
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

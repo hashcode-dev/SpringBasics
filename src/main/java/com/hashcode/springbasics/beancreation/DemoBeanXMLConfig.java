@@ -1,4 +1,4 @@
-package com.hashcode.springbasics.bean;
+package com.hashcode.springbasics.beancreation;
 
 public class DemoBeanXMLConfig {
     // Custom init method
